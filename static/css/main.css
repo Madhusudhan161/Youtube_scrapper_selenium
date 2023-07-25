@@ -1,0 +1,35 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+
+.form {
+    margin-top: 20px;
+}
+
+#content {
+    width: 70%;
+}
+
+.table-data {
+  border-collapse: collapse;
+  overflow-y:scroll;
+  width:400px;
+  height:320px;
+}
+td{
+  height: 50px;
+  text-align:center;
+  
+}
+th{
+  height:50px;
+  text-align:center;
+  width:200px;
+}
